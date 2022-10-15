@@ -1,4 +1,4 @@
-# Quaternion-based-UKF
+# Quaternion-based UKF
 
 
 Built a quaternion based UKF for object pose tracking given IMU readings to avoid orientation singularity 
